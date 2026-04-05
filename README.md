@@ -3,9 +3,11 @@
 Repositori ini berisi penyelesaian dua studi kasus menggunakan metode Logika Fuzzy Mamdani dengan pustaka scikit-fuzzy pada Python.
 
 **Studi Kasus 1 : Optimasi Stok Toko Hewan**
+
 Udin Pet Shop ingin mengoptimalkan persediaan stok makanan hewan untuk memenuhi permintaan, memaksimalkan profit, dan meminimalkan risiko overstock.
 
 Variabel dan Himpunan Fuzzy : 
+
 Input : 
 - Barang Terjual ($0-100$ unit): Rendah, Sedang, Tinggi.
 - Permintaan ($0-300$ unit): Rendah, Sedang, Tinggi.
