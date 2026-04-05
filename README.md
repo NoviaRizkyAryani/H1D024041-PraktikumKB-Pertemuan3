@@ -19,10 +19,10 @@ Output :
 
 Skenario Pengujian : 
 
-Barang Terjual: 80
-Permintaan: 255
-Harga per Item: Rp 25.000
-Profit: Rp 3.500.000
+- Barang Terjual: 80
+- Permintaan: 255
+- Harga per Item: Rp 25.000
+- Profit: Rp 3.500.000
 
 **Studi Kasus 2 : Penilaian Kepuasan Masyarakat**
 
@@ -41,13 +41,10 @@ Output (Semesta $0-400$) :
 
 Skenario Pengujian :
 
-Kejelasan Informasi: 80
-
-Kejelasan Persyaratan: 60
-
-Kemampuan Petugas: 50
-
-Ketersediaan Sarpras: 90
+- Kejelasan Informasi: 80
+- Kejelasan Persyaratan: 60
+- Kemampuan Petugas: 50
+- Ketersediaan Sarpras: 90
 
 **Prasyarat Sistem**
 
@@ -60,6 +57,7 @@ pip install numpy skfuzzy matplotlib
 1. Jalankan skrip Python untuk masing-masing studi kasus:
 
 toko_hewan.py
+
 pelayanan_masyarakat.py
 
 2. Program akan menampilkan hasil perhitungan defuzzifikasi dan grafik fungsi keanggotaan
