@@ -43,14 +43,11 @@ Pastikan Anda telah menginstal pustaka berikut sebelum menjalankan kode:
 
 pip install numpy skfuzzy matplotlib
 
-**Cara Penggunaan**
-1. Clone repositori ini:
+**Cara menjalankan**
 
-git clone https://github.com/username/NIM-PraktikumKB-Pertemuan3.git
-
-2. Jalankan skrip Python untuk masing-masing studi kasus:
+1. Jalankan skrip Python untuk masing-masing studi kasus:
 
 toko_hewan.py
 pelayanan_masyarakat.py
 
-3. Program akan menampilkan hasil perhitungan defuzzifikasi dan grafik fungsi keanggotaan
+2. Program akan menampilkan hasil perhitungan defuzzifikasi dan grafik fungsi keanggotaan
